@@ -1,4 +1,5 @@
-### Olá, Me chamo Luccas, e seja bem vindo ao meu perfil do Github.
+### Olá a Todos.
+Me chamo Luccas e sou um denenvolvedor Full Stack em transição de carreira, estou estudando através da Dev Club, e aprimorando meus conhecimentos través de la e me aprimorando em Javascript e React no momento.
 
 
 <div style="display: inline_block"><br>
@@ -16,14 +17,4 @@
   
 </div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LuccasDutraF&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LuccasDutraFa&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=LuccasDutraF&show_icons=true" />
-</picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccasDutraF&show_icons=true&theme=tokyonight)

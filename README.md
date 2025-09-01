@@ -1,5 +1,5 @@
 ### Olá a Todos.
-Me chamo Luccas e sou um denenvolvedor Full Stack em transição de carreira, estou estudando através da Dev Club, e aprimorando meus conhecimentos través de la e me aprimorando em Javascript e React no momento.
+Me chamo Luccas e sou um denenvolvedor Full Stack em transição de carreira, estou estudando através do DevClub, sempre buscando melhorar meus conhecimentos e aprendizados, no momentou estou estudando Javascript e logo logo iniciarei no React.
 
 
 <div style="display: inline_block"><br>
